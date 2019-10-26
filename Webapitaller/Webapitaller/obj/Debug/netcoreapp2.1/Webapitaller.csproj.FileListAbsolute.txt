@@ -1,0 +1,14 @@
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\bin\Debug\netcoreapp2.1\Webapitaller.deps.json
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\bin\Debug\netcoreapp2.1\Webapitaller.runtimeconfig.json
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\bin\Debug\netcoreapp2.1\Webapitaller.runtimeconfig.dev.json
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\bin\Debug\netcoreapp2.1\Webapitaller.dll
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\bin\Debug\netcoreapp2.1\Webapitaller.pdb
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.csprojAssemblyReference.cache
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.csproj.CoreCompileInputs.cache
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.RazorAssemblyInfo.cache
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.RazorAssemblyInfo.cs
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.AssemblyInfoInputs.cache
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.AssemblyInfo.cs
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.RazorTargetAssemblyInfo.cache
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.dll
+c:\users\52738729\source\repos\Webapitaller\Webapitaller\obj\Debug\netcoreapp2.1\Webapitaller.pdb
